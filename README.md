@@ -1,7 +1,6 @@
 # Backend Task Management API
 
-RESTful API untuk manajemen task menggunakan **FastAPI**, **PostgreSQL**, **SQLAlchemy**, dan **JWT Authentication**.  
-Project ini dibuat sebagai **project latihan/magang backend** untuk mahasiswa.
+Project RESTful API untuk manajemen task menggunakan **FastAPI**, **PostgreSQL**, **SQLAlchemy**, dan **JWT Authentication**.  
 
 ---
 
