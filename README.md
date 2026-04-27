@@ -4,7 +4,7 @@ Project RESTful API untuk manajemen task menggunakan **FastAPI**, **PostgreSQL**
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Python 3.10+**
 - **FastAPI**
